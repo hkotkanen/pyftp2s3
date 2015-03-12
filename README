@@ -1,0 +1,1 @@
+Ftp server that accepts uploads and forwards them to an s3 bucket. Doesn't yet do any forwarding though.
